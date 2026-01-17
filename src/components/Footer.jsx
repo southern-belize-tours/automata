@@ -12,7 +12,7 @@ const Footer = () => {
                 <span className="text-dark-900 font-bold text-xl">A</span>
               </div>
               <span className="text-2xl font-display font-bold text-gradient">
-                Automata.ai
+                Automata Forge
               </span>
             </div>
             <p className="text-gray-400 mb-4 max-w-md">
@@ -72,7 +72,7 @@ const Footer = () => {
         <div className="pt-8 border-t border-primary-500/10">
           <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
             <p className="text-gray-400 text-sm">
-              {currentYear} Automata.ai. All rights reserved.
+              {currentYear} Automata Forge. All rights reserved.
             </p>
             <div className="flex space-x-6 text-sm">
               <a href="#" className="text-gray-400 hover:text-primary-400 transition-colors duration-300">

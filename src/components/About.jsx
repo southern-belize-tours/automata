@@ -46,7 +46,7 @@ const About = () => {
           ref={ref}
         >
           <h2 className="text-4xl md:text-5xl font-display font-bold mb-4">
-            <span className="text-gradient">Why Choose Automata.ai</span>
+            <span className="text-gradient">Why Choose Automata Forge</span>
           </h2>
           <p className="text-xl text-gray-400 max-w-3xl mx-auto">
             We're not just automation contractors—we're your partners in digital transformation,

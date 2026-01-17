@@ -42,7 +42,7 @@ const Navbar = () => {
               <span className="text-dark-900 font-bold text-xl">A</span>
             </div>
             <span className="text-2xl font-display font-bold text-gradient">
-              Automata.ai
+              Automata Forge
             </span>
           </motion.div>
 
